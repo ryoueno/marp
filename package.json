@@ -51,6 +51,6 @@
     "markdown-it-mark": "^2.0.0",
     "path": "^0.12.7",
     "photon": "github:connors/photon",
-    "twemoji": "github:twitter/twemoji#v2.2.1"
+    "twemoji": "^2.5.0"
   }
 }
